@@ -1,59 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Animated Name - Asif Raza</title>
-  <style>
-    body {
-      text-align: center;
-      background-color: #f9f9f9;
-      font-family: Arial, sans-serif;
-    }
-
-    .name-animation {
-      font-size: 2.5rem;
-      font-weight: bold;
-      animation: fadeInOut 3s infinite;
-      color: #333;
-    }
-
-    @keyframes fadeInOut {
-      0% { opacity: 0; }
-      25% { opacity: 1; }
-      75% { opacity: 1; }
-      100% { opacity: 0; }
-    }
-
-    .coding-image {
-      position: absolute;
-      right: 20px;
-      top: 100px;
-      width: 400px;
-    }
-  </style>
-</head>
-<body>
-
-  <!-- Your profile GIF -->
-  <img src="https://github.com/asifraza960/Asif2323/blob/main/profile.gif" alt="logo" width="100" />
-
-  <!-- Animated name -->
-  <h1 class="name-animation">Hi 👋, I'm Asif Raza</h1>
-
-  <!-- Right-aligned coding image -->
-  <img
-    class="coding-image"
-    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdas29w9nPrpAzGAq_50xEHyBiOq9DAMekg&s"
-    alt="coding"
-  />
-
-  <!-- Optional profile views badge -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=asifraza960&label=Profile%20views&color=0e75b6&style=flat" alt="asifraza960" />
-  </p>
-
-</body>
-</html>
+![logo](https://github.com/asifraza960/Asif2323/blob/main/profile.gif)
+<h1 align="center">Hi 👋, I'm Asif Raza</h1>
+ <img align = right alt = coding width= "400"
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdas29w9nPrpAzGAq_50xEHyBiOq9DAMekg&s"
+    />
+<p align="left"> <img src="https://komarev.com/ghpvc/?  username=asifraza960&label=Profile%20views&color=0e75b6&style=flat" alt="asifraza960" /> main ne jo yaha pr name asif raza likha  h main chata ho y abar bar likh ajye remove ho kr ess trah ki animation kr do 
 
 - 🔭 I’m currently working on **Flutter**
 
