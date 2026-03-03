@@ -1,9 +1,9 @@
 ![logo](https://github.com/asifraza960/Asif2323/blob/main/profile.gif)
-<h1 align="center">Hi I'm Asif Raza</h1>
+<h1 align="center">Hi I m Asif Raza</h1>
  <img align = right alt = coding width= "400"
       src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdas29w9nPrpAzGAq_50xEHyBiOq9DAMekg&s"
     />
-<p align="left"> <img src="https://komarev.com/ghpvc/?  username=asifraza960&label=Profile%20views&color=0e75b6&style=flat" alt="asifraza960" /> main ne jo yaha pr name asif raza likha  h main chata ho y abar bar likh ajye remove ho kr ess trah ki animation kr do 
+<p align="left"> <img src="https://komarev.com/ghpvc/?  username=asifraza960&label=Profile%20views&color=0e75b6&style=flat" alt="asifraza960" /> 
 
 - 🔭 I’m currently working on **Flutter**
 
