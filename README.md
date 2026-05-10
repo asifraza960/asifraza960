@@ -1,28 +1,62 @@
-![logo](https://github.com/asifraza960/Asif2323/blob/main/profile.gif)
-<h1 align="center">Hi I m Asif Raza</h1>
- <img align = right alt = coding width= "400"
-      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdas29w9nPrpAzGAq_50xEHyBiOq9DAMekg&s"
-    />
-<p align="left"> <img src="https://komarev.com/ghpvc/?  username=asifraza960&label=Profile%20views&color=0e75b6&style=flat" alt="asifraza960" /> 
+<div align="center">
+  <img src="https://github.com/asifraza960/Asif2323/blob/main/profile.gif" width="100%" alt="Banner" />
+  
+  <h1> Hi I'm Asif Raza</h1>
+  <p align="center">
+    <strong>Software Engineer | Mobile Application Specialist (Flutter & Dart)</strong><br />
+    Building Scalable, Maintainable, and High-Performance Cross-Platform Solutions
+  </p>
 
-- 🔭 I’m currently working on **Flutter**
+  <p align="center">
+    <a href="https://linkedin.com/in/me-asif"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:asifraza01156@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+    <a href="https://github.com/asifraza960"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  </p>
+</div>
 
-- 👯 I’m looking to collaborate on **interesting project**
+---
 
-- 👨‍💻 All of my projects are available at [github.com/asifraza960](github.com/asifraza960)
+### 🔭 Professional Overview
+I am a dedicated **Mobile Application Developer** with a strong focus on the **Flutter ecosystem**. My expertise lies in architecting apps that are not just visually appealing but also structurally sound. I specialize in state management and clean architecture to ensure long-term project scalability.
 
-- 💬 Ask me anything about **Flutter**
+- 📱 **Core Expertise:** Cross-platform development for Android & iOS using Flutter.
+- 🏗️ **Architecture:** Proficient in **BLoC**, **MVVM**, and **Provider** patterns.
+- 🔗 **Integrations:** Expert in Firebase, RESTful APIs, and Local Database (Hive/Sqflite) management.
+- ⚙️ **Quality:** Focused on writing clean, reusable, and well-documented code.
 
-- 📫 How to reach me **asifraza01156@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🛠️ Technical Stack
+
+| Category | Proficiency |
+| :--- | :--- |
+| **Frameworks & Languages** | Flutter, Dart, Java, Python |
+| **State Management** | BLoC, Provider, GetX |
+| **Backend & Database** | Firebase, MySQL, REST API Integration |
+| **Design & Architecture** | MVVM, Clean Architecture, SOLID Principles |
+| **Development Tools** | Git/GitHub, Android Studio, VS Code, Postman |
+
+<br/>
 <p align="left">
-<a href="https://linkedin.com/in/me-asif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="me-asif" height="30" width="40" /></a>
-<a href="https://fb.com/asifraza960" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asifraza960" height="30" width="40" /></a>
-<a href="https://instagram.com/asifraza_960" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asifraza_960" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,androidstudio,vscode,mysql,postman,py,java" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asifraza960&show_icons=true&locale=en&layout=compact" alt="asifraza960" /></p>
+### 📈 GitHub Metrics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asifraza960&show_icons=true&theme=tokyonight&count_private=true" alt="Asif's Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifraza960&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+</div>
+
+---
+
+### 🎯 Let's Connect
+I am always open to discussing new projects, innovative ideas, or professional opportunities in the mobile development space.
+
+- 💬 Ask me about: **Flutter architecture, dependency injection, and UI/UX implementation.**
+- 📫 Reach out via: **[LinkedIn](https://linkedin.com/in/me-asif)** or **[Email](mailto:asifraza01156@gmail.com)**
+
+<div align="center">
+  <sub>Built with ❤️ by Asif Raza</sub>
+</div>
