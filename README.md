@@ -15,7 +15,7 @@
 
 **I'm Asif Raza, a dedicated Mobile Application Engineer from Pakistan.**
 
-With **2+ years of hands-on experience**, I specialize in building high-performance, scalable, and responsive mobile applications for **Android & iOS** using **Flutter and Dart**.
+With **2+ year of hands-on experience**, I specialize in building high-performance, scalable, and responsive mobile applications for **Android & iOS** using **Flutter and Dart**.
 
 I focus on **BLoC/Cubit, GetX, Clean Architecture, REST APIs, and Firebase**, turning ideas into clean, user-friendly, and reliable digital products.
 
